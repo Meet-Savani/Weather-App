@@ -40,3 +40,9 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## 📜 License
 This project is **open-source** and available under the **MIT License.**
+
+---
+
+💡 **Let's Connect!** If you have any feedback or suggestions, feel free to reach out.
+
+⭐ **Don't forget to give a star if you like this project!** ⭐
