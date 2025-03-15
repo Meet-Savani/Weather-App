@@ -5,12 +5,12 @@ A fully functional Weather Application built with React.js and Tailwind CSS. Thi
 ---
 
 ## 🚀 Features
-✅ **Real-time Weather Updates** – Get live weather data for any location.
-✅ **Search Functionality** – Users can search for weather conditions in any city worldwide.
-✅ **Temperature & Conditions** – Displays temperature, humidity, wind speed, and weather conditions.
-✅ **State Management** – Uses React hooks (useState, useEffect) to manage data.
-✅ **Responsive Design** – Tailwind CSS ensures a seamless experience on all devices.
-✅ **Modern UI** – Clean and minimalistic interface for a great user experience.
+✅ **Real-time Weather Updates** – Get live weather data for any location.  
+✅ **Search Functionality** – Users can search for weather conditions in any city worldwide.  
+✅ **Temperature & Conditions** – Displays temperature, humidity, wind speed, and weather conditions.  
+✅ **State Management** – Uses React hooks (useState, useEffect) to manage data.  
+✅ **Responsive Design** – Tailwind CSS ensures a seamless experience on all devices.  
+✅ **Modern UI** – Clean and minimalistic interface for a great user experience.  
 
 ---
 
@@ -20,9 +20,10 @@ As a frontend developer diving into React.js, I wanted to create a practical pro
 ---
 
 ## 🛠️ Tech Stack
-Frontend: React.js, Tailwind CSS
-API: OpenWeatherMap API (or any weather API of choice)
-State Management: useState, useEffect (React Hooks)
+
+- **Frontend:** React.js, Tailwind CSS
+- **API:** OpenWeatherMap API (or any weather API of choice)
+- **State Management:** useState, useEffect (React Hooks)   
 
 ---
 
